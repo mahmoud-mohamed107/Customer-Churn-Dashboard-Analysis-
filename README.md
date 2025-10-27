@@ -131,7 +131,7 @@ By improving **early-stage experience**, **enhancing Tier 3 service infrastructu
 
 ---
 
-## (Recommendations)
+## Recommendations
 1. **Improve the first 90-day experience** through faster delivery, proactive support, and tailored offers.  
 2. **Enhance service delivery in Tier 3 cities** by improving local support quality and infrastructure.  
 3. **Encourage digital payment adoption** via cashback incentives and loyalty programs.  
