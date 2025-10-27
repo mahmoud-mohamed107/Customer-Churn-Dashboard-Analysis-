@@ -56,7 +56,7 @@ The dashboard was designed for executive storytelling — starting from general 
 - **Complaint Rate:** 28.5% — relatively high, aligning with churn patterns.  
 
 **Insight:**  
-The churn pattern suggests early-stage disengagement likely caused by poor service experience and unmet expectations.
+The churn pattern suggests early stage disengagement likely caused by poor service experience and unmet expectations.
 
 ---
 
@@ -90,10 +90,10 @@ Focusing on onboarding and first 90-day engagement can significantly reduce chur
 
 ### 5. Coupon Usage and Churn
 - Customers who used **1–2 coupons** exhibit higher churn than those who used none — suggesting short-term or incentive-only engagement.  
-- **Heavy coupon users (3–4)** are fewer but show mixed patterns — they stay longer yet are highly price-sensitive.  
+- **Heavy coupon users (3–4)** are fewer but show mixed patterns they stay longer yet are highly price-sensitive.  
 
 **Insight:**  
-A balanced coupon strategy that rewards loyalty rather than one-time discounts may help improve retention quality and customer value.
+A balanced coupon strategy that rewards loyalty rather than one time discounts may help improve retention quality and customer value.
 
 ---
 
@@ -111,7 +111,7 @@ the churn was **not driven by opportunistic customers**, but by **service and ex
 > Customers didn’t leave because they were deal hunters they left because the service didn’t meet their expectations.
 
 The promotional offers accelerated the exposure of these weaknesses:  
-new users were attracted through discounts, but their early experience (onboarding, support, or transaction friction) was poor, leading them to churn quickly — especially during the first quarter.
+new users were attracted through discounts, but their early experience (onboarding, support, or transaction friction) was poor, leading them to churn quickly especially during the first quarter.
 
 ---
 
