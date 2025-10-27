@@ -97,13 +97,42 @@ A balanced coupon strategy that rewards loyalty rather than one-time discounts m
 
 ---
 
-## Tools and Technologies
-- Power BI for visualization and dashboard design.  
-- Excel and SQL for data cleaning and transformation.  
-- DAX for calculated measures and KPI logic.  
+## Hypothesis Development and Analytical Reasoning
+
+At first glance, the churn spike in **Q1** — combined with the timing of promotional campaigns — led to an initial assumption:  
+> “Maybe customers are *deal hunters* who joined for discounts and left once the offers ended.”
+
+However, deeper analysis challenged this idea.
+
+When we cross-referenced churn with **complaint rates (28.5%)**, **city-tier differences (Tier 3 being the highest churn)**, and **payment method dissatisfaction (debit card users at 45% churn)**, a different story emerged:  
+the churn was **not driven by opportunistic customers**, but by **service and experience gaps**.
+
+### Final Hypothesis
+> “Customers didn’t leave because they were deal hunters — they left because the service didn’t meet their expectations.”
+
+The promotional offers accelerated the exposure of these weaknesses:  
+new users were attracted through discounts, but their early experience (onboarding, support, or transaction friction) was poor, leading them to churn quickly — especially during the first quarter.
 
 ---
 
 ## Key Takeaways
-Overall, the dashboard reveals that **early engagement, service experience, and payment convenience** are the strongest predictors of churn.  
-Focusing on **first 90-day customer experience**, improving **support in Tier 3 cities**, and **promoting digital payments** can have the greatest impact on retention and customer lifetime value.
+- **The root cause of churn is service quality, not discount fatigue.**  
+- **Tier 3 customers** face accessibility and support challenges.  
+- **Debit card users** experience friction that increases drop-off risk.  
+- **The first 90 days** are the critical window for retention success.  
+
+---
+
+## Final Insight
+> “Discounts attract customers — service retains them.”  
+
+The data shows that marketing incentives successfully drove acquisition, but inconsistent service delivery and operational weaknesses caused those same customers to leave.  
+By improving **early-stage experience**, **enhancing Tier 3 service infrastructure**, and **promoting seamless digital payments**, the company can significantly reduce churn and strengthen long-term customer loyalty.  
+
+---
+
+## Action Plan (Recommendations)
+1. **Improve the first 90-day experience** through onboarding communication, guided tutorials, and personalized engagement.  
+2. **Enhance service delivery in Tier 3 cities** by improving local support quality and infrastructure.  
+3. **Encourage digital payment adoption** via cashback incentives and loyalty programs.  
+4. **Monitor complaint patterns** monthly to track progress on service improvements.  
