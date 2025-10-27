@@ -108,7 +108,7 @@ When we cross-referenced churn with **complaint rates (28.5%)**, **city-tier dif
 the churn was **not driven by opportunistic customers**, but by **service and experience gaps**.
 
 ### Final Hypothesis
-> “Customers didn’t leave because they were deal hunters they left because the service didn’t meet their expectations.”
+> Customers didn’t leave because they were deal hunters they left because the service didn’t meet their expectations.
 
 The promotional offers accelerated the exposure of these weaknesses:  
 new users were attracted through discounts, but their early experience (onboarding, support, or transaction friction) was poor, leading them to churn quickly — especially during the first quarter.
@@ -124,14 +124,14 @@ new users were attracted through discounts, but their early experience (onboardi
 ---
 
 ## Final Insight
-> “Discounts attract customers — service retains them.”  
+>  Discounts attract customers service retains them.  
 
 The data shows that marketing incentives successfully drove acquisition, but inconsistent service delivery and operational weaknesses caused those same customers to leave.  
 By improving **early-stage experience**, **enhancing Tier 3 service infrastructure**, and **promoting seamless digital payments**, the company can significantly reduce churn and strengthen long-term customer loyalty.  
 
 ---
 
-## Action Plan (Recommendations)
+## (Recommendations)
 1. **Improve the first 90-day experience** through onboarding communication, guided tutorials, and personalized engagement.  
 2. **Enhance service delivery in Tier 3 cities** by improving local support quality and infrastructure.  
 3. **Encourage digital payment adoption** via cashback incentives and loyalty programs.  
