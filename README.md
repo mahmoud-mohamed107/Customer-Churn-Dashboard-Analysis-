@@ -108,7 +108,7 @@ When we cross-referenced churn with **complaint rates (28.5%)**, **city-tier dif
 the churn was **not driven by opportunistic customers**, but by **service and experience gaps**.
 
 ### Final Hypothesis
-> “Customers didn’t leave because they were deal hunters — they left because the service didn’t meet their expectations.”
+> “Customers didn’t leave because they were deal hunters they left because the service didn’t meet their expectations.”
 
 The promotional offers accelerated the exposure of these weaknesses:  
 new users were attracted through discounts, but their early experience (onboarding, support, or transaction friction) was poor, leading them to churn quickly — especially during the first quarter.
